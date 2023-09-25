@@ -1,7 +1,7 @@
 
 #   Image gallery Filtering 
 
-This is a simple image gallery filtering web application built using HTML,CSS AND JAVASCRIPT,Which sort image accoring to that tags.
+This is a simple image gallery filtering web application built using HTML,CSS AND JAVASCRIPT,Which sort image accoring to the tags.
 
 ## 🚀 Features
 
